@@ -7,6 +7,8 @@ Everyone loves them
 
 Even Malcolm
 
+Change to indicate git status
+
 [Instructions here](/instructions.md)
 
 ## Business Understanding
